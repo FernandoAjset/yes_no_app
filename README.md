@@ -18,7 +18,7 @@ Se emplearon diversos widgets, como: Containers, SizeBox, ListViews, CustomWidge
 El desarrollo de la aplicación también abordó aspectos de lógica de programación y gestión de estado:
 
 - **Gestores de Estado**: Se utilizó un enfoque de gestión de estado, a través del paquete Provider, para administrar y actualizar la información de manera eficiente.
-- **Mappers**: La aplicación pudo haber utilizado funciones de mapeo para convertir los datos recibidos de la API en objetos utilizables en la interfaz.
+- **Mappers**: La aplicación hace uso de funciones de mapeo para convertir los datos recibidos de la API en objetos utilizables en la interfaz.
 - **Peticiones HTTP**: Se implementaron solicitudes HTTP para consumir la API https://yesno.wtf, obteniendo los memes de respuesta correspondientes.
 - **Dio**: Uso del paquete Dio para realizar las peticiones HTTP de manera eficiente.
 - **Funciones de Retorno y Callbacks**: Uso de funciones de retorno para manejar la respuesta de la API y actualizar la interfaz de usuario en consecuencia.
@@ -34,11 +34,15 @@ El desarrollo de la aplicación también abordó aspectos de lógica de programa
 
 A continuación, se muestran algunas capturas de pantalla de la aplicación:
 
+### Pantalla inicial de la aplicación.
 ![Inicio de aplicación](https://drive.google.com/uc?id=1w2hZd0HFOl6Y6KQsq2gmnx9sUudUfUrO)
+https://drive.google.com/file/d/1w2hZd0HFOl6Y6KQsq2gmnx9sUudUfUrO/view?usp=drive_link
 
-![Escritura de mensaje del usuario](https://drive.google.com/file/d/1kHEdRZ6wPWKji0vcLhEFNluDOA_y-6aS/view?usp=drive_link)
+### Escritura de mensaje del usuario.
+![Escritura de mensaje del usuario](https://drive.google.com/uc?id=1kHEdRZ6wPWKji0vcLhEFNluDOA_y-6aS/view?usp=drive_link)
 
-![Respuesta generada por el consumo de la API](https://drive.google.com/file/d/1r5jIffBxrWmJBR_PDv7VU58c3HFlQ_6J/view?usp=drive_link)
+### Respuesta generada por el consumo de la API.
+![Respuesta generada por el consumo de la API](https://drive.google.com/uc?id=1r5jIffBxrWmJBR_PDv7VU58c3HFlQ_6J/view?usp=drive_link)
 
 ¡Diviértete explorando y aprendiendo a través de este proyecto de aplicación móvil Flutter!
 
