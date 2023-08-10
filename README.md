@@ -53,9 +53,9 @@ Si tienes alguna pregunta o necesitas ayuda adicional o te interera mi trabajo p
 **Email**: fernando_ajset@hotmail.com
 
 ## Redes sociales:
-**LinkedIn**: https://www.linkedin.com/in/edgar-fernando-ajset-nimacach%C3%A9-3a52951ba/
-**Facebook**: https://www.facebook.com/hackferajset
-**Instagram**: https://www.instagram.com/fer_ajset/
+- **LinkedIn**: https://www.linkedin.com/in/edgar-fernando-ajset-nimacach%C3%A9-3a52951ba/
+- **Facebook**: https://www.facebook.com/hackferajset
+- **Instagram**: https://www.instagram.com/fer_ajset/
 
 ## Donaciones
 Si el proyecto es util para tí y puedes aportar en mi desarrollo, tu donación es muy valiosa.
