@@ -38,10 +38,10 @@ A continuación, se muestran algunas capturas de pantalla de la aplicación:
 ![Pantalla inicial de la aplicación](https://drive.google.com/uc?id=1w2hZd0HFOl6Y6KQsq2gmnx9sUudUfUrO | height=200)
 
 ### Escritura de mensaje del usuario
-![Escritura de mensaje del usuario](https://drive.google.com/uc?id=1kHEdRZ6wPWKji0vcLhEFNluDOA_y-6aS | height=200)
+![Escritura de mensaje del usuario](https://drive.google.com/uc?id=1kHEdRZ6wPWKji0vcLhEFNluDOA_y-6aS | height=300)
 
 ### Respuesta generada por el consumo de la API
-![Respuesta generada por el consumo de la API](https://drive.google.com/uc?id=1r5jIffBxrWmJBR_PDv7VU58c3HFlQ_6J | height=200)
+![Respuesta generada por el consumo de la API](https://drive.google.com/uc?id=1r5jIffBxrWmJBR_PDv7VU58c3HFlQ_6J | height=150)
 
 
 ¡Diviértete explorando y aprendiendo a través de este proyecto de aplicación móvil Flutter!
