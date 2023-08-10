@@ -34,15 +34,14 @@ El desarrollo de la aplicación también abordó aspectos de lógica de programa
 
 A continuación, se muestran algunas capturas de pantalla de la aplicación:
 
-### Pantalla inicial de la aplicación.
-![Inicio de aplicación](https://drive.google.com/uc?id=1w2hZd0HFOl6Y6KQsq2gmnx9sUudUfUrO)
-https://drive.google.com/file/d/1w2hZd0HFOl6Y6KQsq2gmnx9sUudUfUrO/view?usp=drive_link
+### Pantalla inicial de la aplicación
+![Pantalla inicial de la aplicación](https://drive.google.com/uc?id=1w2hZd0HFOl6Y6KQsq2gmnx9sUudUfUrO)
 
-### Escritura de mensaje del usuario.
-![Escritura de mensaje del usuario](https://drive.google.com/uc?id=1kHEdRZ6wPWKji0vcLhEFNluDOA_y-6aS/view?usp=drive_link)
+### Escritura de mensaje del usuario
+![Escritura de mensaje del usuario](https://drive.google.com/uc?id=1kHEdRZ6wPWKji0vcLhEFNluDOA_y-6aS)
 
-### Respuesta generada por el consumo de la API.
-![Respuesta generada por el consumo de la API](https://drive.google.com/uc?id=1r5jIffBxrWmJBR_PDv7VU58c3HFlQ_6J/view?usp=drive_link)
+### Respuesta generada por el consumo de la API
+![Respuesta generada por el consumo de la API](https://drive.google.com/uc?id=1r5jIffBxrWmJBR_PDv7VU58c3HFlQ_6J)
 
 ¡Diviértete explorando y aprendiendo a través de este proyecto de aplicación móvil Flutter!
 
