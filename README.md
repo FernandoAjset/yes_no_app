@@ -1,6 +1,8 @@
 # Chat Fake de Respuestas YesNo con Memes - Aplicación Flutter
 Este repositorio contiene el código fuente de una aplicación móvil desarrollada en Flutter que implementa un pequeño chat falso (fake) capaz de responder preguntas con memes obtenidos de la API https://yesno.wtf. La aplicación muestra cómo interactuar con la API mencionada y utiliza diferentes elementos de Flutter para construir la interfaz de usuario y gestionar la lógica.
 
+**Nota**: La aplicación fue desarrollada siguiendo el curso "Flutter - Móvil: De cero a experto - Edición 2023", enlace del curso: https://cursos.devtalles.com/courses/flutter-movil-cero-a-experto
+
 ## Descripción
 La aplicación se centra en simular un chat donde el usuario puede hacer preguntas y recibir respuestas en forma de memes que expresan "Sí", "No" o "Tal vez". Estas respuestas se generan de manera aleatoria al consumir la API https://yesno.wtf. La aplicación ilustra el uso de diversos temas y conceptos en Flutter para lograr este objetivo.
 
@@ -45,4 +47,16 @@ A continuación, se muestran algunas capturas de pantalla de la aplicación:
 
 ¡Diviértete explorando y aprendiendo a través de este proyecto de aplicación móvil Flutter!
 
-**Nota**: La aplicación fue desarrollada siguiendo el curso "Flutter - Móvil: De cero a experto - Edición 2023", enlace del curso: https://cursos.devtalles.com/courses/flutter-movil-cero-a-experto
+## Contacto
+Si tienes alguna pregunta o necesitas ayuda adicional o te interera mi trabajo puedes contactarme por:
+
+**Email**: fernando_ajset@hotmail.com
+
+## Redes sociales:
+**LinkedIn**: https://www.linkedin.com/in/edgar-fernando-ajset-nimacach%C3%A9-3a52951ba/
+**Facebook**: https://www.facebook.com/hackferajset
+**Instagram**: https://www.instagram.com/fer_ajset/
+
+## Donaciones
+Si el proyecto es util para tí y puedes aportar en mi desarrollo, tu donación es muy valiosa.
+**Pues hacerla aquí: https://paypal.me/EAjset?locale.x=es_XC**
